@@ -1,0 +1,11 @@
+.main {
+    position: absolute;
+    top: 170px;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    background-color:white;
+    color: black;
+  }
+  
